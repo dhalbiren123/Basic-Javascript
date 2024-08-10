@@ -9,7 +9,7 @@
 
 
 
-function sum(...n){
- console.log(n)
-}
-sum(1,2,3)
+// function sum(...n){
+//  console.log(n)
+// }
+// sum(1,2,3)
